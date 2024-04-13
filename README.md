@@ -5,6 +5,7 @@ When you first open up the game, it mentions the control of the game, "Roll" and
 ![image](https://github.com/pybotc/playerrng.py/assets/164795032/771bfa12-90f4-44c1-a8eb-5f7fec85505c)
 #
 When you type in roll, the script will automatically bring in a random player from roblox, then check it rarities using a star system similar to "player rng 🎲". ![image](https://github.com/pybotc/playerrng.py/assets/164795032/42f606f9-489c-4820-9ef1-1728ff9477ee)
+#
 When you find a *kewl* account that you want to save, just type in save, and it would automatically be saved in the "Saved Accounts" folder.
 #
 ![image](https://github.com/pybotc/playerrng.py/assets/164795032/5f07d6af-9278-43f0-b1c7-b21abc2de4c7)
